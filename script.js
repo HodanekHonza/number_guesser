@@ -35,7 +35,4 @@ const advanceRound = () => {
   currentRoundNumber++;
 }
 
-console.log()
 console.log(updateScore())
-console.log()
-console.log()
